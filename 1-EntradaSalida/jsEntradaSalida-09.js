@@ -7,9 +7,9 @@ en el cuadro de texto "RESULTADO".*/
 function mostrarAumento()
 { // sueldo+aumento= resultado
   // porcentaje de un valor=  multiplico el valor y lo divido por 100
-	let sueldo;
-   let resultado;
-   let aumento;
+  let sueldo;
+  let resultado;
+  let aumento;
 
    sueldo=parseFloat(document.getElementById("txtIdSueldo").value);
    

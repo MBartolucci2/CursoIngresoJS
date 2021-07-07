@@ -8,9 +8,13 @@ function mostrar()
 	let nombre;
 	let edad;
 	let apellido; 
+	
 	nombre=document.getElementById("txtIdNombre").value;
-apellido=prompt("Inserte su apellido");
+
+	apellido=prompt("Inserte su apellido");
+
 	edad=document.getElementById("txtIdEdad").value;
+	
 	alert(apellido + ", Usted se llama " + nombre + " y tiene " + edad + " años ");
 }
 
