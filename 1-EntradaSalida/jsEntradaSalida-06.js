@@ -1,7 +1,8 @@
 /*
 Debemos lograr tomar Los numeros por ID ,
 transformarlos a enteros (parseInt) y Sumarlos.
-mostrar el resulto por medio de "ALERT"*/
+mostrar el resulto por medio de "ALERT"
+Alegre Bartolucci, Matias*/
 function sumar()
 {
 	//txtIdNumeroUno //txtIdNumeroDos
